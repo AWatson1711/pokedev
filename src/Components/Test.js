@@ -40,7 +40,7 @@ const Test = () => {
 
                 <section>
                     <h2>show value</h2>
-                    <form action="" onSubmit={showValue}>
+                    <form onSubmit={showValue}>
                         <label htmlFor="text">Ecrivez votre texte</label>
                         <input type="text" ref={inputEl}  name="text" id="text" />
                         <input type="submit" name="submit" id="submit" />
