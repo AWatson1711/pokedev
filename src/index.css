@@ -9,3 +9,25 @@
 .jc-space-around {
   justify-content: space-around;
 }
+.wrap{
+  flex-wrap: wrap;
+}
+img{
+  width: 20rem;
+}
+.pokemonCardContainer{
+  text-align: center;
+}
+i{
+  color: black;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.pink{
+  color: rgb(252, 62, 211);
+}
+
+section{
+  margin: 2rem 0;
+}
